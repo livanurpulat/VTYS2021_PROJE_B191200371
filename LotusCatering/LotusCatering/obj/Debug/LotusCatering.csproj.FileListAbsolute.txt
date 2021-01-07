@@ -1,0 +1,11 @@
+C:\Users\Asus\Desktop\LotusCatering\LotusCatering\bin\Debug\LotusCatering.exe.config
+C:\Users\Asus\Desktop\LotusCatering\LotusCatering\bin\Debug\LotusCatering.exe
+C:\Users\Asus\Desktop\LotusCatering\LotusCatering\bin\Debug\LotusCatering.pdb
+C:\Users\Asus\Desktop\LotusCatering\LotusCatering\obj\Debug\LotusCatering.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\LotusCatering\LotusCatering\obj\Debug\LotusCatering.FrmLogin.resources
+C:\Users\Asus\Desktop\LotusCatering\LotusCatering\obj\Debug\LotusCatering.FrmRapor.resources
+C:\Users\Asus\Desktop\LotusCatering\LotusCatering\obj\Debug\LotusCatering.Properties.Resources.resources
+C:\Users\Asus\Desktop\LotusCatering\LotusCatering\obj\Debug\LotusCatering.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\LotusCatering\LotusCatering\obj\Debug\LotusCatering.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\LotusCatering\LotusCatering\obj\Debug\LotusCatering.exe
+C:\Users\Asus\Desktop\LotusCatering\LotusCatering\obj\Debug\LotusCatering.pdb
